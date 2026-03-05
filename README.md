@@ -227,8 +227,6 @@ The app uses a custom **agricultural green** color palette with full light/dark 
 
 ## 📄 License
 
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
-
 ---
 
 <p align="center">
